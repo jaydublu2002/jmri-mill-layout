@@ -1,12 +1,10 @@
 # TODO
 
-- research screen capture / video editing software for Linux
-
-- install fresh Ubuntu / JMRI eetc on an old laptop to leave with the layout
-- connect layout to JMRI
+- ~~install fresh Ubuntu / JMRI eetc on an old laptop to leave with the layout (or Raspberry Pi)~~
+- ~~connect layout to JMRI~~
 - set up tables:
-  - turnouts
-  - block detection
+  - ~~turnouts~~
+  - ~~block detection~~
   - semaphore signals
   - signal box lights
   - merg opto detectors
